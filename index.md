@@ -11,5 +11,4 @@ This hero is the most heroic hero because he is better than other heroes. Lorem 
 
 > This sentence describes me very precisely.
 
-
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/O_Tamandu%C3%A1.jpg/1200px-O_Tamandu%C3%A1.jpg"/>
